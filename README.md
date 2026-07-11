@@ -100,10 +100,6 @@ Building a decision-support platform using:
 ## 📦 Supply Chain Analytics Platform
 
 
-<img src="YOUR_DASHBOARD_IMAGE_LINK" width="800">
 
 
 Decision-support platform designed to monitor and optimize supply chain performance.
-
-
-Architecture:
